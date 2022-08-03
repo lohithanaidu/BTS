@@ -22,6 +22,7 @@ header{
 	margin: auto;
 }
 .col-3{
+	height: 9em;
 	background-color:black;
 	width:33%;
 	float: left;
